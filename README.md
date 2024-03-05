@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elvis Ouma
-- 👀 I’m interested in artificial intelligence and automation.
-- 🌱 I’m currently learning data science and cybersecurity.
-- 💞️ I’m looking to collaborate on automativa scripts written in python, js, ruby or c++.
+- 👀 I’m interested in artificial intelligence, cyber security, web development and automation.
+- 🌱 I’m currently learning data science, app development and cybersecurity.
+- 💞️ I’m looking to collaborate on automative scripts written in python, js, ruby or c++.
 - 📫 How to reach me, email oumaelvis087@gmail.com
 
 <!---
